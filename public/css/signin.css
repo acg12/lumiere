@@ -1,0 +1,19 @@
+#form-container {
+    width: 40%;
+    padding: 100px;
+    padding-top: 150px;
+}
+
+.btn-signin {
+    padding: 8px 32px;
+}
+
+.inp-div {
+    margin-top: 16px;
+}
+
+#sign-up-peek {
+    width: 40%;
+    padding: 100px;
+    padding-top: 150px;
+}
